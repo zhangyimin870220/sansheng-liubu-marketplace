@@ -9,19 +9,19 @@
 ### 方式一：通过 GitHub（推荐）
 
 ```bash
-/plugin marketplace add <your-github-username>/sansheng-liubu-marketplace
+/plugin marketplace add zhangyimin870220/sansheng-liubu-marketplace
 ```
 
-### 方式二：通过本地路径测试
+### 方式二：通过 Gitee
 
 ```bash
-/plugin marketplace add ./path/to/marketplace
+/plugin marketplace add zym1987/sansheng-liubu-marketplace
 ```
 
-### 方式三：通过 HTTP URL
+### 方式三：通过本地路径测试
 
 ```bash
-/plugin marketplace add https://your-domain.com/sansheng-liubu-marketplace/marketplace.json
+/plugin marketplace add c:/Users/ak000/CodeBuddy/Claw/marketplace
 ```
 
 ## 包含插件
@@ -105,7 +105,7 @@ sansheng-liubu-marketplace/
     "sansheng-liubu": {
       "source": {
         "source": "github",
-        "repo": "<your-org>/sansheng-liubu-marketplace"
+        "repo": "zhangyimin870220/sansheng-liubu-marketplace"
       }
     }
   },

@@ -4,7 +4,7 @@
 
 ### 1. 仓库创建与推送
 - ✅ **Gitee 仓库**: https://gitee.com/zym1987/sansheng-liubu-marketplace
-- ✅ **GitHub 仓库**: https://github.com/zym1987/sansheng-liubu-marketplace
+- ✅ **GitHub 仓库**: https://github.com/zhangyimin870220/sansheng-liubu-marketplace
 
 ### 2. 插件结构
 ```
@@ -33,13 +33,14 @@ sansheng-liubu-marketplace/
 
 ## 📦 如何安装使用
 
-### 方式一：通过远程仓库添加市场
+### 方式一：通过 GitHub 添加市场（推荐）
 ```bash
-# 添加 Gitee 市场
-/plugin marketplace add zym1987/sansheng-liubu-marketplace
-
-# 或添加 GitHub 市场
 /plugin marketplace add zhangyimin870220/sansheng-liubu-marketplace
+```
+
+### 方式二：通过 Gitee 添加市场
+```bash
+/plugin marketplace add zym1987/sansheng-liubu-marketplace
 ```
 
 ### 方式二：通过本地路径添加市场
