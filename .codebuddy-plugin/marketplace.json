@@ -1,0 +1,16 @@
+{
+  "name": "sansheng-liubu-marketplace",
+  "owner": {
+    "name": "Claw Team",
+    "email": "example@example.com"
+  },
+  "description": "三省六部制任务调度系统 - 基于唐代官制的多Agent协作工作流插件市场",
+  "plugins": [
+    {
+      "name": "sansheng-liubu",
+      "source": "./sansheng-liubu",
+      "description": "完整的任务调度和工作流管理系统，包含太子、中书省、尚书省、门下省及六部（工部、兵部、户部、礼部、刑部、吏部）共10个Agent，实现从消息分拣、方案起草、任务派发到结果回奏的完整流程",
+      "version": "1.0.0"
+    }
+  ]
+}

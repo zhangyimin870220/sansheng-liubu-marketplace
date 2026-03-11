@@ -1,0 +1,14 @@
+{
+  "name": "sansheng-liubu",
+  "version": "1.0.0",
+  "description": "三省六部制任务调度系统 - 太子、中书省、尚书省、六部（工部、兵部、户部、礼部、刑部、吏部）、门下省",
+  "author": {
+    "name": "Claw Team",
+    "email": "example@example.com"
+  },
+  "homepage": "https://github.com/claw/sansheng-liubu",
+  "repository": "https://github.com/claw/sansheng-liubu",
+  "license": "MIT",
+  "keywords": ["agent", "workflow", "task-management", "三省六部"],
+  "agents": "./agents"
+}
