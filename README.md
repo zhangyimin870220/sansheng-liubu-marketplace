@@ -21,7 +21,7 @@
 ### 方式三：通过本地路径测试
 
 ```bash
-/plugin marketplace add c:/Users/ak000/CodeBuddy/Claw/marketplace
+/plugin marketplace add d:/xxx/xxxx/xxxx/xxxx/marketplace
 ```
 
 ## 包含插件
